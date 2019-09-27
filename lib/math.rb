@@ -2,7 +2,6 @@
 def addition(num1 = 5, num2 = 4)
   puts (num1.class + num2.class)
 end
-addition
 
 def subtraction(num1 = 10, num2 = 5)
   puts num1 - num2
