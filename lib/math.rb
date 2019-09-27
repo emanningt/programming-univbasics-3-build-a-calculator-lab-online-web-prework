@@ -1,10 +1,10 @@
 
 def addition(num1 = 5, num2 = 4)
-  puts (num1.class + num2.class)
+  p (num1.class + num2.class)
 end
 
 def subtraction(num1 = 10, num2 = 5)
-  puts num1 - num2
+  p num1 - num2
 end
 subtraction
 
