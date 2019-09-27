@@ -23,6 +23,6 @@ def modulo(num1 = 35, num2 = 4)
 end
 modulo
 
-def square_root(num)
+def square_root(num = 80)
   p
 end
